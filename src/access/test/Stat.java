@@ -2,7 +2,7 @@ package access.test;
 
 public class Stat {// access static variable into static method
 	
-	
+	// again looking for git conflict
 	static int b;
 	
 	public static  void m1() {
