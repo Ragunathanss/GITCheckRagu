@@ -1,7 +1,7 @@
 package access.test;
 
 public class SamePKG {// access static variable into non static method
-	
+	// adding to check conflict
 	static int a=20;
 	
 	public  void m4() {  
